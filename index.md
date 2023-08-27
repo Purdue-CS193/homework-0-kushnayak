@@ -1,3 +1,12 @@
+# Kush Nayak's First CS193 Homework
+
+Fav things about cs193:
+- TAs
+- Not at 7:30 in morning
+- Smaller class size
+- Useful, applicable information
+
+
 ## Welcome to GitHub Pages
 
 You can use the [editor on GitHub](https://github.com/kalutes/CS193_Fall18_Lab1/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
